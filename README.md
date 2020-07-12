@@ -1,9 +1,9 @@
 # Parallel-computing
 Parallel implementation of Mandelbrot Set and Wirless Sensor Network.
 # Dependecy
-C
-MPI
-openmp
+- C
+- MPI
+- openmp
 
 # instruction for implementing WSN:
     1.make
