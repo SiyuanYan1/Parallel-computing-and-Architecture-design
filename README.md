@@ -3,7 +3,7 @@ Parallel implementation of Mandelbrot Set and Implementation of Wirless Sensor N
 # Dependency
 - C
 - MPI
--OpenMP
+- OpenMP
 
 # instruction for running Wireless Sensor Network:
     1.make
