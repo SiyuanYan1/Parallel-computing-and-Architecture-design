@@ -1,0 +1,68 @@
+
+The experiment text is 
+ hello world 
+
+The encryption content is ╧ЭП^ ╔щ▓)I└Ly%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч%тyA_▓}└▌ОAYуеч
+
+The decryption content is hello world 
+
+ iteration 0
+Serial encryption costs 0.000416
+Serial decryption costs 0.001016
+parallel encrption using OpenMP costs 0.000204
+parallel decryption using OpenMP costs 0.000352
+
+iteration 1
+Serial encryption costs 0.000414
+Serial decryption costs 0.001018
+parallel encrption using OpenMP costs 0.000204
+parallel decryption using OpenMP costs 0.000398
+
+iteration 2
+Serial encryption costs 0.000426
+Serial decryption costs 0.000784
+parallel encrption using OpenMP costs 0.000231
+parallel decryption using OpenMP costs 0.000381
+
+iteration 3
+Serial encryption costs 0.000439
+Serial decryption costs 0.000983
+parallel encrption using OpenMP costs 0.000341
+parallel decryption using OpenMP costs 0.000434
+
+iteration 4
+Serial encryption costs 0.000422
+Serial decryption costs 0.000989
+parallel encrption using OpenMP costs 0.000222
+parallel decryption using OpenMP costs 0.000348
+
+iteration 5
+Serial encryption costs 0.000440
+Serial decryption costs 0.000984
+parallel encrption using OpenMP costs 0.000186
+parallel decryption using OpenMP costs 0.000343
+
+iteration 6
+Serial encryption costs 0.000415
+Serial decryption costs 0.000948
+parallel encrption using OpenMP costs 0.000259
+parallel decryption using OpenMP costs 0.000348
+
+iteration 7
+Serial encryption costs 0.000420
+Serial decryption costs 0.000835
+parallel encrption using OpenMP costs 0.000218
+parallel decryption using OpenMP costs 0.000329
+
+iteration 8
+Serial encryption costs 0.000381
+Serial decryption costs 0.000921
+parallel encrption using OpenMP costs 0.000196
+parallel decryption using OpenMP costs 0.000360
+
+iteration 9
+Serial encryption costs 0.000408
+Serial decryption costs 0.000915
+parallel encrption using OpenMP costs 0.000214
+parallel decryption using OpenMP costs 0.000358
+

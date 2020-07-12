@@ -1,6 +1,4 @@
-# Parallel-computing
-
-# instruction for WSN:
+instruction:
     1.make
     2. get a log.txt file
 

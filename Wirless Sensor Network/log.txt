@@ -1,0 +1,1145 @@
+Mon Oct 21 12:27:27 2019: Iteration: 0 activation value:0 Reference Node:12[IP address:1.0.0.0 ]Adjacent nodes: 8 16 -2 13
+communication time between nodes and base station reported activation value is 0.080048 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 0 activation value:4 Reference Node:6[IP address:1.0.0.0 ]Adjacent nodes: 2 10 5 7
+communication time between nodes and base station reported activation value is 0.041249 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 0 activation value:2 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.000014 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 0 activation value:0 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.003885 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 0 activation value:2 Reference Node:11[IP address:1.0.0.0 ]Adjacent nodes: 7 15 10 -2
+communication time between nodes and base station reported activation value is 0.018736 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 0 activation value:4 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.006478 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 0 activation value:6 Reference Node:1[IP address:1.0.0.0 ]Adjacent nodes: -2 5 0 2
+communication time between nodes and base station reported activation value is 0.000768 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 0 activation value:2 Reference Node:7[IP address:1.0.0.0 ]Adjacent nodes: 3 11 6 -2
+communication time between nodes and base station reported activation value is 0.021322 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 0 activation value:8 Reference Node:2[IP address:1.0.0.0 ]Adjacent nodes: -2 6 1 3
+communication time between nodes and base station reported activation value is 0.018827 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 0 activation value:9 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.025447 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 0 activation value:7 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.004659 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 0 activation value:9 Reference Node:9[IP address:1.0.0.0 ]Adjacent nodes: 5 13 8 10
+communication time between nodes and base station reported activation value is 0.008290 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 0 activation value:8 Reference Node:10[IP address:1.0.0.0 ]Adjacent nodes: 6 14 9 11
+communication time between nodes and base station reported activation value is 0.001889 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 0 activation value:8 Reference Node:8[IP address:1.0.0.0 ]Adjacent nodes: 4 12 -2 9
+communication time between nodes and base station reported activation value is 0.006717 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 0 activation value:2 Reference Node:15[IP address:1.0.0.0 ]Adjacent nodes: 11 19 14 -2
+communication time between nodes and base station reported activation value is 0.015783 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 1 activation value:2 Reference Node:10[IP address:1.0.0.0 ]Adjacent nodes: 6 14 9 11
+communication time between nodes and base station reported activation value is 0.003419 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 1 activation value:2 Reference Node:6[IP address:1.0.0.0 ]Adjacent nodes: 2 10 5 7
+communication time between nodes and base station reported activation value is 0.007885 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 0 activation value:3 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.000010 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 1 activation value:0 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.000005 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 1 activation value:0 Reference Node:11[IP address:1.0.0.0 ]Adjacent nodes: 7 15 10 -2
+communication time between nodes and base station reported activation value is 0.005985 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 1 activation value:3 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.006746 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 1 activation value:2 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.001767 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 1 activation value:9 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.002446 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 2 activation value:9 Reference Node:7[IP address:1.0.0.0 ]Adjacent nodes: 3 11 6 -2
+communication time between nodes and base station reported activation value is 0.010586 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 1 activation value:8 Reference Node:1[IP address:1.0.0.0 ]Adjacent nodes: -2 5 0 2
+communication time between nodes and base station reported activation value is 0.001522 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 2 activation value:4 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.005112 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 1 activation value:8 Reference Node:9[IP address:1.0.0.0 ]Adjacent nodes: 5 13 8 10
+communication time between nodes and base station reported activation value is 0.000004 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 2 activation value:3 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.011167 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 2 activation value:9 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.006563 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 2 activation value:2 Reference Node:15[IP address:1.0.0.0 ]Adjacent nodes: 11 19 14 -2
+communication time between nodes and base station reported activation value is 0.000003 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 2 activation value:4 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.000317 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 2 activation value:4 Reference Node:2[IP address:1.0.0.0 ]Adjacent nodes: -2 6 1 3
+communication time between nodes and base station reported activation value is 0.000003 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 2 activation value:2 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.018888 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 2 activation value:2 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.003423 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 2 activation value:0 Reference Node:10[IP address:1.0.0.0 ]Adjacent nodes: 6 14 9 11
+communication time between nodes and base station reported activation value is 0.018129 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 3 activation value:3 Reference Node:15[IP address:1.0.0.0 ]Adjacent nodes: 11 19 14 -2
+communication time between nodes and base station reported activation value is 0.000055 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 2 activation value:2 Reference Node:9[IP address:1.0.0.0 ]Adjacent nodes: 5 13 8 10
+communication time between nodes and base station reported activation value is 0.000003 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 3 activation value:2 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.003370 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 3 activation value:3 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 3 activation value:4 Reference Node:1[IP address:1.0.0.0 ]Adjacent nodes: -2 5 0 2
+communication time between nodes and base station reported activation value is 0.007986 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 3 activation value:2 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.000004 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 3 activation value:9 Reference Node:6[IP address:1.0.0.0 ]Adjacent nodes: 2 10 5 7
+communication time between nodes and base station reported activation value is 0.001421 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 4 activation value:8 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.005424 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 4 activation value:4 Reference Node:15[IP address:1.0.0.0 ]Adjacent nodes: 11 19 14 -2
+communication time between nodes and base station reported activation value is 0.000004 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 4 activation value:2 Reference Node:7[IP address:1.0.0.0 ]Adjacent nodes: 3 11 6 -2
+communication time between nodes and base station reported activation value is 0.003316 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 3 activation value:8 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.003506 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 3 activation value:2 Reference Node:8[IP address:1.0.0.0 ]Adjacent nodes: 4 12 -2 9
+communication time between nodes and base station reported activation value is 0.006316 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 4 activation value:3 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.005375 s
+
+Mon Oct 21 12:27:27 2019: Iteration: 4 activation value:1 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.007426 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 4 activation value:8 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.016160 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 4 activation value:9 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.018997 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 4 activation value:7 Reference Node:9[IP address:1.0.0.0 ]Adjacent nodes: 5 13 8 10
+communication time between nodes and base station reported activation value is 0.010534 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 5 activation value:4 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.000007 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 5 activation value:4 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.012220 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 6 activation value:4 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.000003 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 5 activation value:2 Reference Node:1[IP address:1.0.0.0 ]Adjacent nodes: -2 5 0 2
+communication time between nodes and base station reported activation value is 0.000474 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 5 activation value:0 Reference Node:6[IP address:1.0.0.0 ]Adjacent nodes: 2 10 5 7
+communication time between nodes and base station reported activation value is 0.006109 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 6 activation value:9 Reference Node:2[IP address:1.0.0.0 ]Adjacent nodes: -2 6 1 3
+communication time between nodes and base station reported activation value is 0.000003 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 5 activation value:8 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.002960 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 5 activation value:2 Reference Node:9[IP address:1.0.0.0 ]Adjacent nodes: 5 13 8 10
+communication time between nodes and base station reported activation value is 0.006360 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 5 activation value:2 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.000004 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 6 activation value:2 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.002554 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 6 activation value:9 Reference Node:9[IP address:1.0.0.0 ]Adjacent nodes: 5 13 8 10
+communication time between nodes and base station reported activation value is 0.028360 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 7 activation value:2 Reference Node:7[IP address:1.0.0.0 ]Adjacent nodes: 3 11 6 -2
+communication time between nodes and base station reported activation value is 0.005919 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 6 activation value:0 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.000004 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 6 activation value:2 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.000003 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 7 activation value:3 Reference Node:10[IP address:1.0.0.0 ]Adjacent nodes: 6 14 9 11
+communication time between nodes and base station reported activation value is 0.011215 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 7 activation value:1 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.000004 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 8 activation value:6 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.015333 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 7 activation value:7 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.001669 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 8 activation value:0 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.000007 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 8 activation value:3 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.000005 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 8 activation value:3 Reference Node:11[IP address:1.0.0.0 ]Adjacent nodes: 7 15 10 -2
+communication time between nodes and base station reported activation value is 0.002351 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 7 activation value:2 Reference Node:9[IP address:1.0.0.0 ]Adjacent nodes: 5 13 8 10
+communication time between nodes and base station reported activation value is 0.002620 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 8 activation value:8 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.008219 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 8 activation value:1 Reference Node:12[IP address:1.0.0.0 ]Adjacent nodes: 8 16 -2 13
+communication time between nodes and base station reported activation value is 0.003204 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 8 activation value:0 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.000003 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 8 activation value:7 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.001869 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 9 activation value:6 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.000006 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 8 activation value:4 Reference Node:10[IP address:1.0.0.0 ]Adjacent nodes: 6 14 9 11
+communication time between nodes and base station reported activation value is 0.004867 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 9 activation value:2 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.008688 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 8 activation value:3 Reference Node:9[IP address:1.0.0.0 ]Adjacent nodes: 5 13 8 10
+communication time between nodes and base station reported activation value is 0.000186 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 9 activation value:2 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.002026 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 9 activation value:0 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.027823 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 10 activation value:2 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.010233 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 10 activation value:4 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 10 activation value:2 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.011482 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 10 activation value:9 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.012949 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 11 activation value:3 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.003879 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 12 activation value:2 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.004012 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 11 activation value:4 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.000005 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 12 activation value:5 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.013101 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 11 activation value:2 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.000004 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 11 activation value:1 Reference Node:9[IP address:1.0.0.0 ]Adjacent nodes: 5 13 8 10
+communication time between nodes and base station reported activation value is 0.002849 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 12 activation value:6 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.000116 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 13 activation value:8 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.004601 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 12 activation value:3 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.004155 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 12 activation value:3 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.005823 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 12 activation value:2 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.002088 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 12 activation value:8 Reference Node:9[IP address:1.0.0.0 ]Adjacent nodes: 5 13 8 10
+communication time between nodes and base station reported activation value is 0.006593 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 13 activation value:6 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.002156 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 14 activation value:2 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.007894 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 13 activation value:6 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.000004 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 14 activation value:8 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.007613 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 13 activation value:3 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.000003 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 13 activation value:4 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.001510 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 14 activation value:8 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.013844 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 13 activation value:0 Reference Node:9[IP address:1.0.0.0 ]Adjacent nodes: 5 13 8 10
+communication time between nodes and base station reported activation value is 0.001224 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 15 activation value:4 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.002212 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 14 activation value:6 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.003972 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 14 activation value:3 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.006728 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 14 activation value:4 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.007897 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 15 activation value:5 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.000004 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 14 activation value:2 Reference Node:9[IP address:1.0.0.0 ]Adjacent nodes: 5 13 8 10
+communication time between nodes and base station reported activation value is 0.002375 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 15 activation value:3 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.003043 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 15 activation value:1 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.007109 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 15 activation value:3 Reference Node:10[IP address:1.0.0.0 ]Adjacent nodes: 6 14 9 11
+communication time between nodes and base station reported activation value is 0.007593 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 15 activation value:4 Reference Node:9[IP address:1.0.0.0 ]Adjacent nodes: 5 13 8 10
+communication time between nodes and base station reported activation value is 0.003478 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 16 activation value:2 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.006110 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 16 activation value:5 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.006595 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 16 activation value:1 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.001380 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 16 activation value:8 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 16 activation value:0 Reference Node:6[IP address:1.0.0.0 ]Adjacent nodes: 2 10 5 7
+communication time between nodes and base station reported activation value is 0.000003 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 17 activation value:6 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.003254 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 17 activation value:8 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.017568 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 17 activation value:2 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.007169 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 18 activation value:8 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.014312 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 17 activation value:6 Reference Node:9[IP address:1.0.0.0 ]Adjacent nodes: 5 13 8 10
+communication time between nodes and base station reported activation value is 0.002027 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 17 activation value:0 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.000699 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 17 activation value:8 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.008304 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 18 activation value:2 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.000004 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 18 activation value:8 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.000766 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 19 activation value:3 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.011366 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 18 activation value:8 Reference Node:10[IP address:1.0.0.0 ]Adjacent nodes: 6 14 9 11
+communication time between nodes and base station reported activation value is 0.000005 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 19 activation value:8 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.000007 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 18 activation value:0 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.004506 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 18 activation value:6 Reference Node:9[IP address:1.0.0.0 ]Adjacent nodes: 5 13 8 10
+communication time between nodes and base station reported activation value is 0.001489 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 19 activation value:4 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.001786 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 19 activation value:2 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.007652 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 18 activation value:2 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.001193 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 20 activation value:5 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.012188 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 19 activation value:5 Reference Node:10[IP address:1.0.0.0 ]Adjacent nodes: 6 14 9 11
+communication time between nodes and base station reported activation value is 0.000005 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 20 activation value:3 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.003874 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 20 activation value:6 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.002058 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 19 activation value:4 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.001155 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 19 activation value:8 Reference Node:9[IP address:1.0.0.0 ]Adjacent nodes: 5 13 8 10
+communication time between nodes and base station reported activation value is 0.001955 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 21 activation value:6 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.022583 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 20 activation value:2 Reference Node:10[IP address:1.0.0.0 ]Adjacent nodes: 6 14 9 11
+communication time between nodes and base station reported activation value is 0.000005 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 21 activation value:5 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.000011 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 20 activation value:6 Reference Node:6[IP address:1.0.0.0 ]Adjacent nodes: 2 10 5 7
+communication time between nodes and base station reported activation value is 0.000005 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 20 activation value:3 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.000003 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 20 activation value:4 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.000030 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 21 activation value:8 Reference Node:15[IP address:1.0.0.0 ]Adjacent nodes: 11 19 14 -2
+communication time between nodes and base station reported activation value is 0.000009 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 20 activation value:5 Reference Node:9[IP address:1.0.0.0 ]Adjacent nodes: 5 13 8 10
+communication time between nodes and base station reported activation value is 0.004018 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 21 activation value:2 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.000004 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 21 activation value:3 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.014383 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 22 activation value:6 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.000005 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 22 activation value:3 Reference Node:15[IP address:1.0.0.0 ]Adjacent nodes: 11 19 14 -2
+communication time between nodes and base station reported activation value is 0.000007 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 21 activation value:6 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.000037 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 21 activation value:8 Reference Node:10[IP address:1.0.0.0 ]Adjacent nodes: 6 14 9 11
+communication time between nodes and base station reported activation value is 0.008807 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 22 activation value:2 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.013661 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 22 activation value:9 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.009797 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 22 activation value:6 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.006382 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 23 activation value:9 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 23 activation value:5 Reference Node:15[IP address:1.0.0.0 ]Adjacent nodes: 11 19 14 -2
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 22 activation value:8 Reference Node:9[IP address:1.0.0.0 ]Adjacent nodes: 5 13 8 10
+communication time between nodes and base station reported activation value is 0.001057 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 22 activation value:6 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.001498 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 23 activation value:3 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.000003 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 23 activation value:4 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.000004 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 23 activation value:8 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.008895 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 23 activation value:2 Reference Node:12[IP address:1.0.0.0 ]Adjacent nodes: 8 16 -2 13
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 23 activation value:4 Reference Node:10[IP address:1.0.0.0 ]Adjacent nodes: 6 14 9 11
+communication time between nodes and base station reported activation value is 0.009206 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 24 activation value:6 Reference Node:15[IP address:1.0.0.0 ]Adjacent nodes: 11 19 14 -2
+communication time between nodes and base station reported activation value is 0.000003 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 24 activation value:4 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.000003 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 24 activation value:6 Reference Node:2[IP address:1.0.0.0 ]Adjacent nodes: -2 6 1 3
+communication time between nodes and base station reported activation value is 0.000015 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 23 activation value:8 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.000003 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 24 activation value:5 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 23 activation value:2 Reference Node:9[IP address:1.0.0.0 ]Adjacent nodes: 5 13 8 10
+communication time between nodes and base station reported activation value is 0.006541 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 24 activation value:3 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.002387 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 24 activation value:3 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.004166 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 24 activation value:5 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.003563 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 24 activation value:8 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.000003 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 25 activation value:9 Reference Node:15[IP address:1.0.0.0 ]Adjacent nodes: 11 19 14 -2
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 24 activation value:6 Reference Node:10[IP address:1.0.0.0 ]Adjacent nodes: 6 14 9 11
+communication time between nodes and base station reported activation value is 0.010133 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 25 activation value:5 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.003467 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 24 activation value:4 Reference Node:9[IP address:1.0.0.0 ]Adjacent nodes: 5 13 8 10
+communication time between nodes and base station reported activation value is 0.004112 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 25 activation value:2 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.001173 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 25 activation value:3 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.002185 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 25 activation value:5 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.001417 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 25 activation value:6 Reference Node:1[IP address:1.0.0.0 ]Adjacent nodes: -2 5 0 2
+communication time between nodes and base station reported activation value is 0.010798 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 25 activation value:6 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.000003 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 26 activation value:5 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.011790 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 26 activation value:4 Reference Node:15[IP address:1.0.0.0 ]Adjacent nodes: 11 19 14 -2
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 26 activation value:2 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 26 activation value:9 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.001210 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 26 activation value:2 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.002458 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 26 activation value:8 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.007254 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 26 activation value:6 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.000005 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 27 activation value:2 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.005635 s
+
+Mon Oct 21 12:27:28 2019: Iteration: 27 activation value:0 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.005814 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 27 activation value:4 Reference Node:6[IP address:1.0.0.0 ]Adjacent nodes: 2 10 5 7
+communication time between nodes and base station reported activation value is 0.001966 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 27 activation value:2 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.006579 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 27 activation value:8 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 27 activation value:4 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.000004 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 27 activation value:9 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.002047 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 28 activation value:9 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 28 activation value:0 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.007009 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 28 activation value:2 Reference Node:2[IP address:1.0.0.0 ]Adjacent nodes: -2 6 1 3
+communication time between nodes and base station reported activation value is 0.006457 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 28 activation value:2 Reference Node:6[IP address:1.0.0.0 ]Adjacent nodes: 2 10 5 7
+communication time between nodes and base station reported activation value is 0.004648 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 28 activation value:5 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.001731 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 28 activation value:6 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.003859 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 28 activation value:4 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.001027 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 28 activation value:3 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.002179 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 29 activation value:1 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.001455 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 29 activation value:2 Reference Node:2[IP address:1.0.0.0 ]Adjacent nodes: -2 6 1 3
+communication time between nodes and base station reported activation value is 0.006039 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 29 activation value:2 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.014625 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 29 activation value:2 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.001828 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 29 activation value:6 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.000003 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 29 activation value:5 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.000923 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 30 activation value:2 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.018120 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 30 activation value:0 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 30 activation value:0 Reference Node:15[IP address:1.0.0.0 ]Adjacent nodes: 11 19 14 -2
+communication time between nodes and base station reported activation value is 0.000005 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 29 activation value:6 Reference Node:9[IP address:1.0.0.0 ]Adjacent nodes: 5 13 8 10
+communication time between nodes and base station reported activation value is 0.005077 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 31 activation value:3 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.002059 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 30 activation value:2 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.004147 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 30 activation value:8 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 30 activation value:2 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.000004 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 31 activation value:6 Reference Node:7[IP address:1.0.0.0 ]Adjacent nodes: 3 11 6 -2
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 31 activation value:2 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.010634 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 31 activation value:0 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.005239 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 30 activation value:9 Reference Node:9[IP address:1.0.0.0 ]Adjacent nodes: 5 13 8 10
+communication time between nodes and base station reported activation value is 0.000295 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 32 activation value:4 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.001076 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 31 activation value:3 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.004890 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 31 activation value:0 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.000003 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 31 activation value:8 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.005213 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 32 activation value:1 Reference Node:15[IP address:1.0.0.0 ]Adjacent nodes: 11 19 14 -2
+communication time between nodes and base station reported activation value is 0.000005 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 32 activation value:5 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.021406 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 32 activation value:9 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.000009 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 32 activation value:3 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.002309 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 32 activation value:0 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.003654 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 33 activation value:5 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.031457 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 33 activation value:6 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.000007 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 33 activation value:1 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.000582 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 33 activation value:9 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.001709 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 34 activation value:6 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.030794 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 34 activation value:1 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.000005 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 34 activation value:2 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.000007 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 34 activation value:9 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.000003 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 35 activation value:1 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.000004 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 35 activation value:0 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.000472 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 35 activation value:9 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.021124 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 35 activation value:3 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.000004 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 35 activation value:4 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.000004 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 36 activation value:1 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.007307 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 35 activation value:2 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.000004 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 36 activation value:1 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.011166 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 35 activation value:0 Reference Node:9[IP address:1.0.0.0 ]Adjacent nodes: 5 13 8 10
+communication time between nodes and base station reported activation value is 0.014033 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 36 activation value:4 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.000003 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 36 activation value:3 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.004455 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 37 activation value:6 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 36 activation value:4 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 37 activation value:5 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.017797 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 36 activation value:3 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.005486 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 37 activation value:3 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.007205 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 37 activation value:1 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.000004 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 38 activation value:0 Reference Node:6[IP address:1.0.0.0 ]Adjacent nodes: 2 10 5 7
+communication time between nodes and base station reported activation value is 0.000012 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 37 activation value:8 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.003889 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 38 activation value:6 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.008317 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 37 activation value:9 Reference Node:9[IP address:1.0.0.0 ]Adjacent nodes: 5 13 8 10
+communication time between nodes and base station reported activation value is 0.000596 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 38 activation value:2 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 38 activation value:6 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.001850 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 38 activation value:8 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.005516 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 38 activation value:2 Reference Node:10[IP address:1.0.0.0 ]Adjacent nodes: 6 14 9 11
+communication time between nodes and base station reported activation value is 0.017173 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 39 activation value:0 Reference Node:6[IP address:1.0.0.0 ]Adjacent nodes: 2 10 5 7
+communication time between nodes and base station reported activation value is 0.002584 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 39 activation value:6 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 39 activation value:1 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.007070 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 39 activation value:0 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 39 activation value:2 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 39 activation value:0 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.004435 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 40 activation value:5 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.000222 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 40 activation value:9 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.005192 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 40 activation value:0 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.013903 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 40 activation value:0 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 40 activation value:1 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.000005 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 40 activation value:6 Reference Node:15[IP address:1.0.0.0 ]Adjacent nodes: 11 19 14 -2
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 40 activation value:1 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.003287 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 41 activation value:4 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 41 activation value:9 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.015697 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 41 activation value:6 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.002646 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 41 activation value:9 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.000004 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 41 activation value:6 Reference Node:15[IP address:1.0.0.0 ]Adjacent nodes: 11 19 14 -2
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 41 activation value:0 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 41 activation value:1 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.002796 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 42 activation value:5 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.000003 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 42 activation value:0 Reference Node:2[IP address:1.0.0.0 ]Adjacent nodes: -2 6 1 3
+communication time between nodes and base station reported activation value is 0.015555 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 42 activation value:1 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.000006 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 42 activation value:4 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 42 activation value:9 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 42 activation value:5 Reference Node:15[IP address:1.0.0.0 ]Adjacent nodes: 11 19 14 -2
+communication time between nodes and base station reported activation value is 0.000004 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 42 activation value:6 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 43 activation value:4 Reference Node:7[IP address:1.0.0.0 ]Adjacent nodes: 3 11 6 -2
+communication time between nodes and base station reported activation value is 0.001971 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 43 activation value:5 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.001647 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 42 activation value:6 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.008060 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 43 activation value:3 Reference Node:6[IP address:1.0.0.0 ]Adjacent nodes: 2 10 5 7
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 43 activation value:2 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.000004 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 43 activation value:0 Reference Node:2[IP address:1.0.0.0 ]Adjacent nodes: -2 6 1 3
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 43 activation value:5 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.003410 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 43 activation value:1 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.000004 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 43 activation value:9 Reference Node:15[IP address:1.0.0.0 ]Adjacent nodes: 11 19 14 -2
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 43 activation value:5 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 43 activation value:6 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.001447 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 44 activation value:0 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.009233 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 44 activation value:8 Reference Node:7[IP address:1.0.0.0 ]Adjacent nodes: 3 11 6 -2
+communication time between nodes and base station reported activation value is 0.002911 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 44 activation value:4 Reference Node:6[IP address:1.0.0.0 ]Adjacent nodes: 2 10 5 7
+communication time between nodes and base station reported activation value is 0.005329 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 43 activation value:0 Reference Node:9[IP address:1.0.0.0 ]Adjacent nodes: 5 13 8 10
+communication time between nodes and base station reported activation value is 0.005367 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 44 activation value:4 Reference Node:15[IP address:1.0.0.0 ]Adjacent nodes: 11 19 14 -2
+communication time between nodes and base station reported activation value is 0.000015 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 44 activation value:3 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.004260 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 44 activation value:2 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.000450 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 44 activation value:5 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.016867 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 44 activation value:9 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.002577 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 45 activation value:2 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.004573 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 45 activation value:4 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.002658 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 45 activation value:0 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.004499 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 45 activation value:8 Reference Node:6[IP address:1.0.0.0 ]Adjacent nodes: 2 10 5 7
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 45 activation value:3 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 45 activation value:0 Reference Node:7[IP address:1.0.0.0 ]Adjacent nodes: 3 11 6 -2
+communication time between nodes and base station reported activation value is 0.002329 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 45 activation value:9 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.000391 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 45 activation value:5 Reference Node:12[IP address:1.0.0.0 ]Adjacent nodes: 8 16 -2 13
+communication time between nodes and base station reported activation value is 0.004290 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 46 activation value:2 Reference Node:2[IP address:1.0.0.0 ]Adjacent nodes: -2 6 1 3
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 46 activation value:2 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.010045 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 46 activation value:8 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.017140 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 46 activation value:4 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.000004 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 46 activation value:5 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.000107 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 46 activation value:5 Reference Node:11[IP address:1.0.0.0 ]Adjacent nodes: 7 15 10 -2
+communication time between nodes and base station reported activation value is 0.006936 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 47 activation value:7 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.004696 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 47 activation value:5 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.001993 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 47 activation value:1 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.001910 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 47 activation value:1 Reference Node:6[IP address:1.0.0.0 ]Adjacent nodes: 2 10 5 7
+communication time between nodes and base station reported activation value is 0.000004 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 47 activation value:0 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.000687 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 47 activation value:8 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.000007 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 47 activation value:4 Reference Node:12[IP address:1.0.0.0 ]Adjacent nodes: 8 16 -2 13
+communication time between nodes and base station reported activation value is 0.003075 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 47 activation value:5 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.002872 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 48 activation value:6 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.006703 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 47 activation value:5 Reference Node:10[IP address:1.0.0.0 ]Adjacent nodes: 6 14 9 11
+communication time between nodes and base station reported activation value is 0.000003 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 48 activation value:4 Reference Node:2[IP address:1.0.0.0 ]Adjacent nodes: -2 6 1 3
+communication time between nodes and base station reported activation value is 0.002624 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 48 activation value:7 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.000508 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 48 activation value:1 Reference Node:6[IP address:1.0.0.0 ]Adjacent nodes: 2 10 5 7
+communication time between nodes and base station reported activation value is 0.002762 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 48 activation value:1 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.006628 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 48 activation value:0 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.000005 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 48 activation value:0 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.000004 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 48 activation value:5 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 48 activation value:2 Reference Node:15[IP address:1.0.0.0 ]Adjacent nodes: 11 19 14 -2
+communication time between nodes and base station reported activation value is 0.002552 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 48 activation value:5 Reference Node:12[IP address:1.0.0.0 ]Adjacent nodes: 8 16 -2 13
+communication time between nodes and base station reported activation value is 0.002340 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 49 activation value:4 Reference Node:18[IP address:1.0.0.0 ]Adjacent nodes: 14 -2 17 19
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 49 activation value:6 Reference Node:6[IP address:1.0.0.0 ]Adjacent nodes: 2 10 5 7
+communication time between nodes and base station reported activation value is 0.000004 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 49 activation value:6 Reference Node:17[IP address:1.0.0.0 ]Adjacent nodes: 13 -2 16 18
+communication time between nodes and base station reported activation value is 0.000002 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 49 activation value:8 Reference Node:2[IP address:1.0.0.0 ]Adjacent nodes: -2 6 1 3
+communication time between nodes and base station reported activation value is 0.000001 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 48 activation value:5 Reference Node:9[IP address:1.0.0.0 ]Adjacent nodes: 5 13 8 10
+communication time between nodes and base station reported activation value is 0.004012 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 49 activation value:1 Reference Node:5[IP address:1.0.0.0 ]Adjacent nodes: 1 9 4 6
+communication time between nodes and base station reported activation value is 0.000911 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 49 activation value:2 Reference Node:14[IP address:1.0.0.0 ]Adjacent nodes: 10 18 13 15
+communication time between nodes and base station reported activation value is 0.001374 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 49 activation value:1 Reference Node:4[IP address:1.0.0.0 ]Adjacent nodes: 0 8 -2 5
+communication time between nodes and base station reported activation value is 0.001217 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 49 activation value:0 Reference Node:13[IP address:1.0.0.0 ]Adjacent nodes: 9 17 12 14
+communication time between nodes and base station reported activation value is 0.001337 s
+
+Mon Oct 21 12:27:29 2019: Iteration: 49 activation value:5 Reference Node:11[IP address:1.0.0.0 ]Adjacent nodes: 7 15 10 -2
+communication time between nodes and base station reported activation value is 0.000168 s
+
+
+Iteration	Number of msg passed	Number of events
+0 			78			16
+1 			71			9
+2 			73			11
+3 			70			8
+4 			70			8
+5 			69			7
+6 			68			6
+7 			67			5
+8 			72			10
+9 			66			4
+10 			66			4
+11 			66			4
+12 			69			7
+13 			68			6
+14 			69			7
+15 			68			6
+16 			67			5
+17 			68			6
+18 			69			7
+19 			69			7
+20 			70			8
+21 			69			7
+22 			69			7
+23 			71			9
+24 			72			10
+25 			69			7
+26 			69			7
+27 			69			7
+28 			70			8
+29 			69			7
+30 			69			7
+31 			69			7
+32 			68			6
+33 			66			4
+34 			66			4
+35 			69			7
+36 			68			6
+37 			68			6
+38 			68			6
+39 			68			6
+40 			69			7
+41 			69			7
+42 			70			8
+43 			73			11
+44 			70			8
+45 			70			8
+46 			68			6
+47 			71			9
+48 			73			11
+49 			71			9
+
+Simulation time is  2.434755 s
+Number of messages passed throughout the network:3484
+Number of events occurred throughout the network363
