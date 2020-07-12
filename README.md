@@ -1,6 +1,11 @@
 # Parallel-computing
+Parallel implementation of Mandelbrot Set and Implementation of Wirless Sensor Network
+# Dependency
+- C
+- MPI
+-OpenMP
 
-# instruction for WSN:
+# instruction for running Wireless Sensor Network:
     1.make
     2. get a log.txt file
 
