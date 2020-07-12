@@ -1,5 +1,5 @@
 # Parallel-computing
-
+Parallel implementation of Mandelbrot Set and Wirless Sensor Network.
 # instruction for WSN:
     1.make
     2. get a log.txt file
